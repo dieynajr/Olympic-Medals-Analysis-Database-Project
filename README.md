@@ -1,4 +1,5 @@
 # Olympic Medals Analysis – Database Project
+📄 The full report, with step-by-step screenshots and comments, is available here: [Projet 2 Olympic done.pdf](Projet%202%20Olympic%20done.pdf)
 
 Individual project from a second-year university Databases course. The goal: clean a Kaggle dataset, build a relational database from it, then query and analyze the data with SQL, Python and Excel.
 
