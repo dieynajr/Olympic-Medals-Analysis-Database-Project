@@ -1,5 +1,5 @@
 # Olympic Medals Analysis – Database Project
-📄 The full report, with step-by-step screenshots and comments, is available here: [Projet 2 Olympic done.pdf](Projet%202%20Olympic%20done.pdf)
+📄 The full report, with step-by-step screenshots and comments (written in French), is available here: [Projet 2 Olympic done.pdf](Projet%202%20Olympic%20done.pdf)
 
 Individual project from a second-year university Databases course. The goal: clean a Kaggle dataset, build a relational database from it, then query and analyze the data with SQL, Python and Excel.
 
@@ -22,6 +22,8 @@ Kaggle dataset (Olympic medals), MySQL (phpMyAdmin), SQL, Python (pandas), Excel
 - `Projet 2 Olympic done.pdf`: project report with screenshots and comments
 
 ## Screenshoots
+*The screenshots and the report are in French (university coursework).*
+
 <img width="459" height="149" alt="image" src="https://github.com/user-attachments/assets/1f6fbc01-ad8e-4485-ab42-83bc8ebfec98" />
 
 *Entity-Relationship (ER) model*
